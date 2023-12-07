@@ -1,7 +1,12 @@
 {
   "name": "vue2-webpack-pack",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "homepage": "https://github.com/Cole-yu/vue2-webpack-pack#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cole-yu/vue2-webpack-pack.git"
+  },
+  "description": "开箱即用的 vue2 + Webpack5 项目模板",
   "main": "src/main.js",
   "private": false,
   "scripts": {
